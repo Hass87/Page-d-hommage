@@ -1,0 +1,35 @@
+*{
+    background-color: #FFB6C1;
+  }
+  
+  #main{
+    border: 5px solid #874766;
+    margin: 30%;
+    padding: 10px;
+    border-radius: 3%;
+  }
+  
+  #title{
+    text-align: center;
+    font-family: cursive;
+    color: #874766;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption{
+    text-align: center;
+  }
+  
+  #tribute-info{
+    text-align: justify;
+  }
+  
+  h2{
+    color: #874766;
+  }
